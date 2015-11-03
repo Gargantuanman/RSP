@@ -1,0 +1,20 @@
+{
+  "name": "RSP",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Gargantuanman/RSP",
+  "authors": [
+    "Rick <ricardogg95@gmail.com>"
+  ],
+  "description": "Sequential Programming Robotics project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "stage-js": "~0.8.2"
+  }
+}
