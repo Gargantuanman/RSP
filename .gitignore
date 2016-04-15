@@ -1,5 +1,4 @@
-### Bower ###
-bower_components
-.bower-cache
-.bower-registry
-.bower-tmp
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
